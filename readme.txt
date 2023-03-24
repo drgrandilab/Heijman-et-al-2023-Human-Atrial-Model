@@ -28,7 +28,7 @@ References:
 Heijman J, Zhou X, Morotti S, Molina CE, Abu-Taha IH, Tekook M, Jespersen T, Zhang Y, Dobrev S,
 Milting H, Gummert J, Karck M, Kamler M, El-Armouche A, Saljic A, Grandi E, Nattel S, Dobrev D.
 Enhanced Ca2+-Dependent SK-Channel Gating and Membrane Trafficking in Human Atrial Fibrillation.
-Circ Res. 2023. doi: 10.1161/CIRCRESAHA.122.321858.
+Circ Res. 2023. https://doi.org/10.1161/CIRCRESAHA.122.321858
 
 Grandi E, Pandit SV, Voigt N, Workman AJ, Dobrev D, Jalife J, Bers DM.
 Human Atrial Action Potential and Ca2+ Model: Sinus Rhythm and Chronic Atrial Fibrillation.
